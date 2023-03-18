@@ -14,6 +14,7 @@ body {
 .overview {
   margin-bottom: 20px;
 }
+
 .weather-temperature img {
   margin-right: 5px;
   height: 64px;
@@ -33,6 +34,11 @@ body {
   top: -32px;
 }
 
+.float-left {
+  margin: 0;
+  padding: 0;
+}
+
 #city {
   color: #878787;
   font-size: 24px;
@@ -42,7 +48,7 @@ body {
 }
 
 ul {
-  margin: 0;
+  margin: -33px;
   padding: 0;
 }
 li {
